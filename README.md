@@ -1,5 +1,5 @@
 # la-casa-de-papel
-Landing page for Dali masks shop; inspired by TV show 'La Casa De Papel';
+Landing page for Dali masks shop - inspired by TV show 'La Casa De Papel';
 
 Live version: https://b-husein.github.io/la-casa-de-papel/
 
