@@ -3,12 +3,6 @@ Landing page for Dali masks shop - inspired by Netflix TV show 'La Casa De Papel
 
 Live version: https://b-husein.github.io/la-casa-de-papel/
 
-🔥 FOLLOW ME ON:
-
-🚀 https://github.com/b-husein 
-
-🚀 https://www.linkedin.com/in/pragmaticxyz/
-
 💻 USEFUL PLAYLISTS:
 
 👊 HTML5
